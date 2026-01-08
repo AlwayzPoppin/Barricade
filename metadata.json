@@ -1,0 +1,8 @@
+{
+  "name": "Barricade AI",
+  "description": "An advanced AI-powered antivirus and system assistant that proactively secures and optimizes your digital environment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
